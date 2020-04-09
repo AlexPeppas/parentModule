@@ -1,0 +1,3 @@
+[submodule "external/subRepo1"]
+	path = external/subRepo1
+	url = https://github.com/AlexPeppas/subModule.git
