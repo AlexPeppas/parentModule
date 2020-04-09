@@ -1,3 +1,6 @@
 [submodule "external/subRepo1"]
 	path = external/subRepo1
 	url = https://github.com/AlexPeppas/subModule.git
+[submodule "external/external/subRepo2"]
+	path = external/external/subRepo2
+	url = https://github.com/AlexPeppas/subModule.git
